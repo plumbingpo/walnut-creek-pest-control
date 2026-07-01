@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://walnutcreekpestcontrolco.com/sitemap.xml
